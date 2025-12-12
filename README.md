@@ -143,25 +143,8 @@ Order Items
 
 ---
 
-## ✅ 4. Live API Deployment (Suggested)
 
-**Platform:**
-
-* Railway
-* Render
-* Fly.io
-* AWS EC2 (for advanced profile)
-
-**You should deploy:**
-
-* Django API
-* Celery worker
-* Redis
-* PostgreSQL
-
----
-
-## ✅ 5. Postman Collection
+## ✅ 4. Postman Collection
 
 Create and export a Postman Collection containing:
 
@@ -175,7 +158,7 @@ Upload it to GitHub: `postman_collection.json`.
 
 ---
 
-## ✅ 6. GitHub README Template
+## ✅ 5. GitHub README Template
 
 ### **E‑Commerce API — Django REST Framework**
 
@@ -196,20 +179,11 @@ Production‑ready e‑commerce backend built using Django REST Framework, Postg
 #### 🛠 Tech Stack
 
 * Django, DRF
-* PostgreSQL
 * Redis
-* Celery + RabbitMQ
 * Docker
-* S3 / MinIO
-
-#### 🚀 Deployment
-
-Supports Render, Railway, AWS.
 
 #### 📚 Documentation
 
 Auto‑generated at: `/api/docs/` (Swagger) and `/api/redoc/`.
 
 ---
-
-This file is **complete and ready** for your portfolio. More details can be added anytime!
