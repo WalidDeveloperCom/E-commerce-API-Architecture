@@ -1,5 +1,4 @@
-# File: README.md
-# E-Commerce API (minimal skeleton)
+# E-Commerce API 
 
 ## Quickstart (dev)
 1. python -m venv .venv
