@@ -24,7 +24,7 @@ from django.conf import settings
 from django.conf.urls.static import static
 
 schema_view = get_schema_view(
-   openapi.Info(title="E-Commerce API", default_version='v1'),
+   openapi.Info(title="E-Commerce Django REST Framework (DRF) API", default_version='v1'),
    public=True,
 )
 
