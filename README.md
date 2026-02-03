@@ -95,7 +95,7 @@ This is a comprehensive e-commerce backend API designed with enterprise-level ar
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/yourusername/E-commerce-API-Architecture.git
+git clone https://github.com/WalidDeveloperCom/E-commerce-API-Architecture.git
 cd E-commerce-API-Architecture
 
 # 2. Create and activate virtual environment
